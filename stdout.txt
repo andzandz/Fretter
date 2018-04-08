@@ -1,0 +1,12 @@
+1: init SDL..
+2: start display..
+3: initialising SDL_TTF
+4: load files..
+load bg,
+a) b) c) d) e) f) g)
+load note,
+a) b) c) d) e) f) g)
+a) b) c) d) e) f) g)
+a) b) c) d) e) f) g)
+5: resize display..
+6: start runloop..
